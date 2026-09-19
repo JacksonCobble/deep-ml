@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 0 labs · 1 math
+**2** solved · 0 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-09-19 | [solution](math/0012-inverse-and-rank) |
+| [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-19 | [solution](math/0046-the-four-fundamental-subspaces) |
 
 ---
 
