@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:40:53.716Z",
+  "generated_at": "2026-09-19T23:46:53.395Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -74,6 +74,19 @@
       "last_pushed_at": "2026-09-19T23:40:51.164Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-09-19T23:46:48.042Z",
+      "last_pushed_at": "2026-09-19T23:46:48.042Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
