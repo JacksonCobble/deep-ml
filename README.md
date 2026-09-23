@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 8 problems · 0 labs · 4 math
+**13** solved · 9 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-19 | [solution](problems/0195-matrix-determinant-trace) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-09-20 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-20 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-23 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-09-20 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-19 | [solution](problems/0329-matrix-rank) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-19 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
