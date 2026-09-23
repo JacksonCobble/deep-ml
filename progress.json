@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:49:17.607Z",
+  "generated_at": "2026-09-23T07:56:40.043Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -172,6 +172,19 @@
       "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
       "first_solved_at": "2026-09-23T07:49:17.099Z",
       "last_pushed_at": "2026-09-23T07:49:17.099Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-09-23T07:56:39.509Z",
+      "last_pushed_at": "2026-09-23T07:56:39.509Z",
       "language": "python",
       "lines": 17
     }
