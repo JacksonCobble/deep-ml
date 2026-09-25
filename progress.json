@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:17:02.684Z",
+  "generated_at": "2026-09-25T03:19:32.355Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -257,6 +257,19 @@
       "path": "math/0048-pseudoinverse-and-minimum-norm-least-squares",
       "first_solved_at": "2026-09-25T03:17:02.971Z",
       "last_pushed_at": "2026-09-25T03:17:02.971Z"
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2026-09-25T03:19:32.372Z",
+      "last_pushed_at": "2026-09-25T03:19:32.372Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
