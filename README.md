@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 17 problems · 1 labs · 10 math
+**29** solved · 17 problems · 1 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -50,6 +50,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pseudoinverse and Minimum-Norm Least Squares](https://www.deep-ml.com/math-problems/48) | medium | 2026-09-25 | [solution](math/0048-pseudoinverse-and-minimum-norm-least-squares) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-09-20 | [solution](math/0013-solving-linear-systems) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-09-19 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-09-28 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 
 ---
 
