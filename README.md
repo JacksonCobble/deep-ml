@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 19 problems · 1 labs · 11 math
+**32** solved · 20 problems · 1 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-25 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-19 | [solution](problems/0195-matrix-determinant-trace) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-09-25 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
+| [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-09-29 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-09-25 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-09-20 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-09-20 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
