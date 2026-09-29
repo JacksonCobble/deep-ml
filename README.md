@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 18 problems · 1 labs · 11 math
+**31** solved · 19 problems · 1 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-09-23 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-19 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-09-24 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
+| [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-09-29 | [solution](problems/0201-qr-decomposition) |
 
 ## Labs
 
