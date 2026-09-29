@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:50:46.666Z",
+  "generated_at": "2026-09-29T21:29:26.181Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -394,6 +394,17 @@
       "last_pushed_at": "2026-09-29T20:50:45.733Z",
       "language": "python",
       "lines": 30
+    },
+    "math:16": {
+      "kind": "math",
+      "id": "16",
+      "title": "Eigendecomposition and SVD",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/16",
+      "path": "math/0016-eigendecomposition-and-svd",
+      "first_solved_at": "2026-09-29T21:29:24.754Z",
+      "last_pushed_at": "2026-09-29T21:29:24.754Z"
     }
   }
 }
