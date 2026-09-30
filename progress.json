@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:29:26.181Z",
+  "generated_at": "2026-09-30T16:07:15.698Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -405,6 +405,19 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-09-29T21:29:24.754Z",
       "last_pushed_at": "2026-09-29T21:29:24.754Z"
+    },
+    "problem:334": {
+      "kind": "problem",
+      "id": "334",
+      "title": "Cholesky Decomposition",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/334",
+      "path": "problems/0334-cholesky-decomposition",
+      "first_solved_at": "2026-09-30T16:07:15.088Z",
+      "last_pushed_at": "2026-09-30T16:07:15.088Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
