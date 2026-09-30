@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:07:15.698Z",
+  "generated_at": "2026-09-30T20:34:05.132Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -418,6 +418,17 @@
       "last_pushed_at": "2026-09-30T16:07:15.088Z",
       "language": "python",
       "lines": 15
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-09-30T20:34:04.495Z",
+      "last_pushed_at": "2026-09-30T20:34:04.495Z"
     }
   }
 }
