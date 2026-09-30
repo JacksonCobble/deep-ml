@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T20:34:05.132Z",
+  "generated_at": "2026-09-30T20:42:42.269Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -429,6 +429,19 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-09-30T20:34:04.495Z",
       "last_pushed_at": "2026-09-30T20:34:04.495Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-30T20:42:38.432Z",
+      "last_pushed_at": "2026-09-30T20:42:38.432Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
