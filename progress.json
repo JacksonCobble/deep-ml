@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:49:54.127Z",
+  "generated_at": "2026-10-01T18:52:42.810Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -502,7 +502,7 @@
       "url": "https://www.deep-ml.com/problems/876",
       "path": "problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank",
       "first_solved_at": "2026-10-01T18:49:53.415Z",
-      "last_pushed_at": "2026-10-01T18:49:53.415Z",
+      "last_pushed_at": "2026-10-01T18:52:42.301Z",
       "language": "python",
       "lines": 22
     }

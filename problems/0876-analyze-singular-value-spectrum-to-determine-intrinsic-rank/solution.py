@@ -7,7 +7,7 @@ def suggest_rank(delta_W: np.ndarray, energy_threshold: float) -> int:
 	"""
 	# Your code here
 	# get our eigenvalues
-	_, s, _ = np.linalg.svd(delta_W)
+	s = np.linalg.svd(delta_W, compute_uv=False)
 	rank_norms = [0]
 	tot = 0
 	for val in s:
