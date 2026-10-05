@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:39:15.813Z",
+  "generated_at": "2026-10-05T21:04:25.039Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -618,6 +618,19 @@
       "last_pushed_at": "2026-10-05T19:39:15.275Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:847": {
+      "kind": "problem",
+      "id": "847",
+      "title": "Dummy Classifier Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/847",
+      "path": "problems/0847-dummy-classifier-baseline",
+      "first_solved_at": "2026-10-05T21:04:24.589Z",
+      "last_pushed_at": "2026-10-05T21:04:24.589Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
