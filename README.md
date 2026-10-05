@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 35 problems · 1 labs · 16 math
+**53** solved · 36 problems · 1 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-19 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-10-05 | [solution](problems/0016-feature-scaling-implementation) |
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-09-25 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-05 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-25 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-19 | [solution](problems/0195-matrix-determinant-trace) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-05 | [solution](problems/0112-min-max-scaling-of-feature-values) |
