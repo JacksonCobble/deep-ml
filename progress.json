@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:51:27.249Z",
+  "generated_at": "2026-10-29T18:48:32.590Z",
   "items": {
     "math:12": {
       "kind": "math",
@@ -681,6 +681,19 @@
       "path": "math/0049-pca-via-covariance-eigendecomposition",
       "first_solved_at": "2026-10-14T19:51:26.056Z",
       "last_pushed_at": "2026-10-14T19:51:26.056Z"
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-10-29T18:48:31.966Z",
+      "last_pushed_at": "2026-10-29T18:48:31.966Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
